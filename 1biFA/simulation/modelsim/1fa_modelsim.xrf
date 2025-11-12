@@ -1,0 +1,15 @@
+vendor_name = ModelSim
+source_file = 1, D:/cpld/1biFA/1fa.bdf
+source_file = 1, D:/cpld/1biFA/Waveform.vwf
+source_file = 1, D:/cpld/1biFA/db/1fa.cbx.xml
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/others/maxplus2/7486.bdf
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/others/maxplus2/7432.bdf
+source_file = 1, c:/altera/13.0sp1/quartus/libraries/others/maxplus2/7408.bdf
+design_name = \1fa 
+instance = comp, \A~I , A, \1fa , 1
+instance = comp, \B~I , B, \1fa , 1
+instance = comp, \Ci~I , Ci, \1fa , 1
+instance = comp, \inst6|4~0 , inst6|4~0, \1fa , 1
+instance = comp, \inst5|4~6 , inst5|4~6, \1fa , 1
+instance = comp, \S~I , S, \1fa , 1
+instance = comp, \Co~I , Co, \1fa , 1

@@ -1,0 +1,56 @@
+|1fa
+S <= 7486:inst6.1
+Ci => 7486:inst2.2
+Ci => 7408:inst3.2
+Ci => 7408:inst4.2
+A => 7486:inst2.3
+A => 7408:inst.2
+A => 7408:inst3.3
+B => 7486:inst6.3
+B => 7408:inst.3
+B => 7408:inst4.3
+Co <= 7432:inst5.1
+
+
+|1fa|7486:inst6
+1 <= 4.DB_MAX_OUTPUT_PORT_TYPE
+2 => 4.IN0
+3 => 4.IN1
+
+
+|1fa|7486:inst2
+1 <= 4.DB_MAX_OUTPUT_PORT_TYPE
+2 => 4.IN0
+3 => 4.IN1
+
+
+|1fa|7432:inst5
+1 <= 4.DB_MAX_OUTPUT_PORT_TYPE
+2 => 4.IN0
+3 => 4.IN1
+
+
+|1fa|7432:inst1
+1 <= 4.DB_MAX_OUTPUT_PORT_TYPE
+2 => 4.IN0
+3 => 4.IN1
+
+
+|1fa|7408:inst
+1 <= 4.DB_MAX_OUTPUT_PORT_TYPE
+2 => 4.IN0
+3 => 4.IN1
+
+
+|1fa|7408:inst3
+1 <= 4.DB_MAX_OUTPUT_PORT_TYPE
+2 => 4.IN0
+3 => 4.IN1
+
+
+|1fa|7408:inst4
+1 <= 4.DB_MAX_OUTPUT_PORT_TYPE
+2 => 4.IN0
+3 => 4.IN1
+
+
